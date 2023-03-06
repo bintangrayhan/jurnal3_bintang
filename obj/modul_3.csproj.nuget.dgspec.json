@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\modul_3\\modul_3.csproj": {}
+    "D:\\modul_3\\MODUL_3.csproj": {}
   },
   "projects": {
-    "D:\\modul_3\\modul_3.csproj": {
+    "D:\\modul_3\\MODUL_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\modul_3\\modul_3.csproj",
-        "projectName": "modul_3",
-        "projectPath": "D:\\modul_3\\modul_3.csproj",
+        "projectUniqueName": "D:\\modul_3\\MODUL_3.csproj",
+        "projectName": "MODUL_3",
+        "projectPath": "D:\\modul_3\\MODUL_3.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "D:\\modul_3\\obj\\",
+        "outputPath": "D:\\MODUL_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
