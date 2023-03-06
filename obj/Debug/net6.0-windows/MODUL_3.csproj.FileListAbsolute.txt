@@ -1,0 +1,17 @@
+D:\modul_3\bin\Debug\net6.0-windows\MODUL_3.exe
+D:\modul_3\bin\Debug\net6.0-windows\MODUL_3.deps.json
+D:\modul_3\bin\Debug\net6.0-windows\MODUL_3.runtimeconfig.json
+D:\modul_3\bin\Debug\net6.0-windows\MODUL_3.dll
+D:\modul_3\bin\Debug\net6.0-windows\MODUL_3.pdb
+D:\modul_3\obj\Debug\net6.0-windows\MODUL_3.csproj.AssemblyReference.cache
+D:\modul_3\obj\Debug\net6.0-windows\MODUL_3.Form1.resources
+D:\modul_3\obj\Debug\net6.0-windows\MODUL_3.csproj.GenerateResource.cache
+D:\modul_3\obj\Debug\net6.0-windows\MODUL_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\modul_3\obj\Debug\net6.0-windows\MODUL_3.AssemblyInfoInputs.cache
+D:\modul_3\obj\Debug\net6.0-windows\MODUL_3.AssemblyInfo.cs
+D:\modul_3\obj\Debug\net6.0-windows\MODUL_3.csproj.CoreCompileInputs.cache
+D:\modul_3\obj\Debug\net6.0-windows\MODUL_3.dll
+D:\modul_3\obj\Debug\net6.0-windows\refint\MODUL_3.dll
+D:\modul_3\obj\Debug\net6.0-windows\MODUL_3.pdb
+D:\modul_3\obj\Debug\net6.0-windows\MODUL_3.genruntimeconfig.cache
+D:\modul_3\obj\Debug\net6.0-windows\ref\MODUL_3.dll
