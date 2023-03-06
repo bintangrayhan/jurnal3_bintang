@@ -1,4 +1,4 @@
-namespace modul_3
+namespace MODUL_3
 {
     internal static class Program
     {
